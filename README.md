@@ -26,6 +26,10 @@ My name is Lorenz Castillo and I am a student at Vancouver Community College tak
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
+<br />
+
+#
+
 ## **Stats**
 
 ![Lorenz's Github Stats](https://github-readme-stats.vercel.app/api?username=lorenzcastillo&rank_icon=github&hide=stars,contribs,issues&show=reviews&show_icons=true&theme=dracula)
