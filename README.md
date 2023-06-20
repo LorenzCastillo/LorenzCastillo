@@ -1,4 +1,9 @@
-### Hi there 👋
+# ☄️ Lorenz Castillo
+
+**`Seeking to be a Software / Web Developer`**
+
+My name is Lorenz Castillo and I am a student at Vancouver Community College taking the Computer Systems Technology Program with 2 years of experience in web app development and design hoping one day to become a Full-Stack Developer. I know not only how to code but also edit videos using Adobe Premiere and edit Photos using Adobe Photoshop as a hobby.
+
 
 <!--
 **LorenzCastillo/LorenzCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
