@@ -10,7 +10,7 @@ My name is Lorenz Castillo and I am a student at Vancouver Community College tak
 
 ### 🐱‍💻 **Languages and Tools**
 
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://pngimg.com/d/github_PNG67.png" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/github-emoji-512x506-u3px3qmr.png" />
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
